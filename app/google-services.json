@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72452503118",
+    "project_id": "ninecasino-71831",
+    "storage_bucket": "ninecasino-71831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72452503118:android:7f70d9ee44d75618ffb51f",
+        "android_client_info": {
+          "package_name": "com.extragames.ninecasino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72452503118-fa8iq4j59e2epb3a9rq3gdr5k0svems5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFU9vj7plLvvs2_uxud5mOaQk6eFdPHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72452503118-fa8iq4j59e2epb3a9rq3gdr5k0svems5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

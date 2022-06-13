@@ -1,0 +1,9 @@
+<root>
+    <item name='junit.framework.AssertionFailedError AssertionFailedError(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+    <item
+        name='junit.framework.AssertionFailedError java.lang.String defaultString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+</root>
