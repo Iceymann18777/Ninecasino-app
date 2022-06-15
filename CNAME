@@ -1,1 +1,5 @@
-ninecasino.com
+dig WWW.NINECASINO.COM +nostats +nocomments +nocmd
+    > ;WWW.NINECASINO.COM.                     IN      A
+    > WWW.NINECASINO.COM.              3592    IN      CNAME   mafiono.github.io.
+    > mafiono.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
