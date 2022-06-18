@@ -1,0 +1,15 @@
+version: '2'
+services:
+
+  upload:
+    image: marcelmaatkamp/android-gradle:23
+    privileged: true
+    command: bash -c "cd /opt/workspace && ./gradlew installDebug"
+    volumes:
+      - gradle-cache:/home/gradle/.gradle
+      - gradle-cache:/home/gradle/.build
+      - ./project:/opt/workspace
+      - /dev/bus/usb:/dev/bus/usb
+
+volumes:
+  gradle-cache:
